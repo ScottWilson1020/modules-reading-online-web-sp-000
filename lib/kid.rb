@@ -12,3 +12,6 @@ class Kid
   
 end 
 
+class Kid
+  extend MetaDancing
+end
